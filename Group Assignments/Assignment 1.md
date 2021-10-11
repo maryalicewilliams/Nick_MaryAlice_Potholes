@@ -25,7 +25,7 @@ City of Oakland, 2016 to Present (Oct 2021).
 Original Mapping:
 - [Oakland 311 Complaint Data](https://data.oaklandca.gov/Infrastructure/Service-requests-received-by-the-Oakland-Call-Cent/quth-gb8e)
     * This file contains all data of Oakland's 311 complaint reporting system from 2009 to the present. It includes complaints that are unrelated to road condition, so we will parse all the data that pertain to pothole or road deterioration complaints. They can be organized by category description, which we will need to do to make sure we are only including the relevant information.
-- 2020 Census Data
+- [2020 Census Data](Group Assignments/Data/ACSST5Y2019.S2001_2021-10-10T213455.zip)
    * We are including census data for the city to visualize the Oakland's demographics by race and income. If there is a correlation between thse demographics and positive or negative road condition, we believe that we can make a strong case that demography affects the rate and frequency to which the city responds to reported issue in a given area or neighborhood.
 
 Existing Map Data for Comparison:
@@ -39,4 +39,4 @@ Existing Map Data for Comparison:
 
 **Conclusion**
 
-There is a lot of existing data on the issue of street deterioration in Oakland, so we expect that we will continue to find more questions as we discover some answers. However, we hope to find some definitive answers on the issues of racial and socioeconomic demography as relating to Oakland's repavement. Because our main research question contains many moving parts, we will most likely include different layers of visual data, which will help us compare our many different variables.
+There is a lot of existing data on the issue of street deterioration in Oakland, so we expect that we will continue to find more questions as we discover some answers. However, we hope to find some definitive answers on the issues of racial and socioeconomic demography as relating to Oakland's street conditions and repavement program. Because our main research question contains many moving parts, we will most likely include different layers of visual data, which will help us compare our many different variables. 
