@@ -14,7 +14,7 @@ This overarching question will involve us addressing several other questions inc
 
 **Why is this important?**
 
-While at first road condition doesn't seem like the most pressing challenge facing society, roads are a major infrastructural resource and reflection of government involvement in an area. People interact with them daily, and a poorly maintained road can damage bikes, cars, buses, and other transport vehicles. Aside from the purely tangible repercussions of street deterioration, a badly damaged road can show local government's negligence or indifference toward specific areas. Most often, communities of color and low-income communities are most likely to face government indifference, so we are seeking to find whether that is the case when it comes to Oakland's paving procedure, as well as how government response has changed over time in different neighborhoods. While mapping this data will not inherently solve discriminatory practices, it may provide insight on other issues of government negligence or encourage change.
+While at first road condition doesn't seem like the most pressing challenge facing society, roads are a major infrastructural resource and reflection of government involvement in an area. People interact with them daily, and a poorly maintained road can damage bikes, cars, buses, and other transport vehicles. Aside from the purely tangible repercussions of street deterioration, a badly damaged road can show local government's negligence or indifference toward specific areas. Often, communities of color and low-income communities are most likely to face government indifference, so we are seeking to find whether that is the case when it comes to Oakland's paving procedure, as well as how government response has changed over time in different neighborhoods. While mapping this data will not inherently solve discriminatory practices, it may provide insight on other issues of government negligence or encourage change.
 
 **Spatial and Time Scope**
 
@@ -26,6 +26,7 @@ Original Mapping:
 - [Oakland 311 Complaint Data](https://data.oaklandca.gov/Infrastructure/Service-requests-received-by-the-Oakland-Call-Cent/quth-gb8e)
     * This file contains all data of Oakland's 311 complaint reporting system from 2009 to the present. It includes complaints that are unrelated to road condition, so we will parse all the data that pertain to pothole or road deterioration complaints. They can be organized by category description, which we will need to do to make sure we are only including the relevant information.
 - 2020 Census Data
+   * We are including census data for the city to visualize the Oakland's demographics by race and income. If there is a correlation between thse demographics and positive or negative road condition, we believe that we can make a strong case that demography affects the rate and frequency to which the city responds to reported issue in a given area or neighborhood.
 
 Existing Map Data for Comparison:
 - [Measure KK funding](https://oakgis.maps.arcgis.com/apps/webappviewer/index.html?id=dbd0e3cbe71b4fa1abbaa33ab1b00deb)
