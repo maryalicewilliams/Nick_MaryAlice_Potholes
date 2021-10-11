@@ -38,3 +38,5 @@ Existing Map Data for Comparison:
  <img src="https://github.com/maryalicewilliams/Nick_MaryAlice_Potholes/blob/main/Group%20Assignments/Images/Data%20Flow%20Chart.jpeg" width="700">
 
 **Conclusion**
+
+There is a lot of existing data on the issue of street deterioration in Oakland, so we expect that we will continue to find more questions as we discover some answers. However, we hope to find some definitive answers on the issues of racial and socioeconomic demography as relating to Oakland's repavement. Because our main research question contains many moving parts, we will most likely include different layers of visual data, which will help us compare our many different variables.
