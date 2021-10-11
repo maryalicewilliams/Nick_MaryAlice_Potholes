@@ -30,6 +30,7 @@ Original Mapping:
 Existing Map Data for Comparison:
 - [Measure KK funding](https://oakgis.maps.arcgis.com/apps/webappviewer/index.html?id=dbd0e3cbe71b4fa1abbaa33ab1b00deb)
 - [Oakland Road Condition Funding](https://oakgis.maps.arcgis.com/apps/webappviewer/index.html?id=d56c2b6ae597493b813be96015ae73b3)
+   * We plan to use these data as part of the same structure, with the first set showing repaving completed before the 3-year repavement plan was implemented in 2019. The second dataset shows repaving that has been completed and is planned for the future under the 3-year repavement plan.
 
 **Visual Flow Chart**
 
