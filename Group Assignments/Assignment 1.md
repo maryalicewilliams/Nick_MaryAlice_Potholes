@@ -23,7 +23,7 @@ City of Oakland, 2016 to Present (Oct 2021).
 **Data Sources**
 
 Original Mapping:
-- Oakland 311 Complaint Data
+- [Oakland 311 Complaint Data](https://data.oaklandca.gov/Infrastructure/Service-requests-received-by-the-Oakland-Call-Cent/quth-gb8e)
 - 2020 Census Data
 
 Existing Map Data for Comparison:
