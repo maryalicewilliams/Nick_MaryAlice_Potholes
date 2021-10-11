@@ -33,6 +33,6 @@ Existing Map Data for Comparison:
 
 **Visual Flow Chart**
 
- <img src="https://github.com/nickmooreucla/up206a-nick/blob/main/Charlie%20Laptop.jpg" width="300">
+ <img src="Group Assignments/Images/Data Flow Chart.jpeg" width="300">
 
 **Conclusion**
