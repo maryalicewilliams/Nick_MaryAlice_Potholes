@@ -27,8 +27,8 @@ Original Mapping:
 - 2020 Census Data
 
 Existing Map Data for Comparison:
-- Measure KK funding 
-- Oakland Road Condition Funding 
+- [Measure KK funding](https://oakgis.maps.arcgis.com/apps/webappviewer/index.html?id=dbd0e3cbe71b4fa1abbaa33ab1b00deb)
+- [Oakland Road Condition Funding](https://oakgis.maps.arcgis.com/apps/webappviewer/index.html?id=d56c2b6ae597493b813be96015ae73b3)
 
 **Visual Flow Chart**
 
