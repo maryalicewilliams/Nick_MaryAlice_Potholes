@@ -1,4 +1,4 @@
-### Mapping Potholes in Oakland
+### A Visual Story of Road Repair in Oakland 
 
 **Research Question**
 
