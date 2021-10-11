@@ -24,6 +24,7 @@ City of Oakland, 2016 to Present (Oct 2021).
 
 Original Mapping:
 - [Oakland 311 Complaint Data](https://data.oaklandca.gov/Infrastructure/Service-requests-received-by-the-Oakland-Call-Cent/quth-gb8e)
+    * This file contains all data of Oakland's 311 complaint reporting system from 2009 to the present. It includes complaints that are unrelated to road condition, so we will parse all the data that pertain to pothole or road deterioration complaints. They can be organized by category description, which we will need to do to make sure we are only including the relevant information.
 - 2020 Census Data
 
 Existing Map Data for Comparison:
