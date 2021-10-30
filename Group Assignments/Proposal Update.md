@@ -24,3 +24,4 @@
 - There are already analyses out there about this issue.
 - We might not learn anything from the maps. 
 - Maps might be too simplistic. 
+- Location of a request doesn't necessarily mean the person  requesting it lives in the area/census block of their request.
